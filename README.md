@@ -1,6 +1,6 @@
-# Odoo Hackathon Project
+## Odoo Hackathon Project
 
-#Problem Statement: ReWear – Community Clothing Exchange
+# Problem Statement: ReWear – Community Clothing Exchange
 
 ## Team Information
 
