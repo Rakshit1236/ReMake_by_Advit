@@ -1,5 +1,7 @@
 # Odoo Hackathon Project
 
+#Problem Statement: ReWear – Community Clothing Exchange
+
 ## Team Information
 
 - **Team Leader:** Rakshit Vaniya
